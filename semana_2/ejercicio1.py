@@ -1,7 +1,12 @@
 # Llene una lista con números enteros y calcule la suma de ellos.
 # La lista debe ser creada manualmente con distintos números y cantidad de elementos.
+# #Me faltó agregar los datos por teclado.
 
-numeros = [8, -3, 15, 4, 11, 2]
+numeros = []
+for i in range(5):
+    numero = int(input("Ingrese un número entero: "))
+    numeros.append(numero)
+
 suma = 0
 
 for numero in numeros:
