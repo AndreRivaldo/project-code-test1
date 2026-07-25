@@ -19,7 +19,7 @@ fin = time.time()
 
 tiempo_transcurrido = fin - inicio
 
-if tiempo_transcurrido > 5:
+if tiempo_transcurrido > 10:
     print(f"Eres muy lento, el resultado era {resultado_real}")
 elif respuesta == resultado_real:
     print("¡Felicitaciones! Respuesta correcta.")
