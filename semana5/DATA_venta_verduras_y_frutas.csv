@@ -1,0 +1,214 @@
+﻿Order_ID,Product,Category,Amount,Date,Country
+1,Carrots,Vegetables,4270,06-01-16,United States
+2,Broccoli,Vegetables,8239,07-01-16,United Kingdom
+3,Banana,Fruit,67,08-01-16,United States
+4,Banana,Fruit,8384,10-01-16,Canada
+5,Beans,Vegetables,2626,10-01-16,Germany
+6,Orange,Fruit,3610,11-01-16,United States
+7,Broccoli,Vegetables,9062,11-01-16,Australia
+8,Banana,Fruit,6906,16-01-16,New Zealand
+9,Apple,Fruit,2417,16-01-16,France
+10,Apple,Fruit,7431,16-01-16,Canada
+11,Banana,Fruit,8250,16-01-16,Germany
+12,Broccoli,Vegetables,7012,18-01-16,United States
+13,Carrots,Vegetables,1903,20-01-16,Germany
+14,Broccoli,Vegetables,2824,22-01-16,Canada
+15,Apple,Fruit,6946,24-01-16,France
+16,Banana,Fruit,2320,27-01-16,United Kingdom
+17,Banana,Fruit,2116,28-01-16,United States
+18,Banana,Fruit,1135,30-01-16,United Kingdom
+19,Broccoli,Vegetables,3595,30-01-16,United Kingdom
+20,Apple,Fruit,1161,02-02-16,United States
+21,Orange,Fruit,2256,04-02-16,France
+22,Banana,Fruit,1004,11-02-16,New Zealand
+23,Banana,Fruit,3642,14-02-16,Canada
+24,Banana,Fruit,4582,17-02-16,United States
+25,Beans,Vegetables,3559,17-02-16,United Kingdom
+26,Carrots,Vegetables,5154,17-02-16,Australia
+27,Mango,Fruit,7388,18-02-16,France
+28,Beans,Vegetables,7163,18-02-16,United States
+29,Beans,Vegetables,5101,20-02-16,Germany
+30,Apple,Fruit,7602,21-02-16,France
+31,Mango,Fruit,1641,22-02-16,United States
+32,Apple,Fruit,8892,23-02-16,Australia
+33,Apple,Fruit,2060,29-02-16,France
+34,Broccoli,Vegetables,1557,29-02-16,Germany
+35,Apple,Fruit,6509,01-03-16,France
+36,Apple,Fruit,5718,04-03-16,Australia
+37,Apple,Fruit,7655,05-03-16,United States
+38,Carrots,Vegetables,9116,05-03-16,United Kingdom
+39,Banana,Fruit,2795,15-03-16,United States
+40,Banana,Fruit,5084,15-03-16,United States
+41,Carrots,Vegetables,8941,15-03-16,United Kingdom
+42,Broccoli,Vegetables,5341,16-03-16,France
+43,Banana,Fruit,15,19-03-16,Canada
+44,Banana,Fruit,9400,19-03-16,Australia
+45,Beans,Vegetables,6045,21-03-16,Germany
+46,Apple,Fruit,5820,22-03-16,New Zealand
+47,Orange,Fruit,8887,23-03-16,Germany
+48,Orange,Fruit,6982,24-03-16,United States
+49,Banana,Fruit,4029,26-03-16,Australia
+50,Carrots,Vegetables,3665,26-03-16,Germany
+51,Banana,Fruit,4781,29-03-16,France
+52,Mango,Fruit,3663,30-03-16,Australia
+53,Apple,Fruit,6331,01-04-16,France
+54,Apple,Fruit,4364,01-04-16,Canada
+55,Carrots,Vegetables,67,03-04-16,United Kingdom
+56,Banana,Fruit,1054,06-04-16,New Zealand
+57,Carrots,Vegetables,7659,06-04-16,United States
+58,Broccoli,Vegetables,27,12-04-16,Germany
+59,Banana,Fruit,25,17-04-16,United States
+60,Orange,Fruit,1113,18-04-16,Australia
+61,Apple,Fruit,1128,21-04-16,United States
+62,Broccoli,Vegetables,9231,22-04-16,Canada
+63,Banana,Fruit,4387,23-04-16,United States
+64,Apple,Fruit,2763,25-04-16,Canada
+65,Banana,Fruit,7898,27-04-16,United Kingdom
+66,Banana,Fruit,2427,30-04-16,France
+67,Banana,Fruit,8663,01-05-16,New Zealand
+68,Carrots,Vegetables,2789,01-05-16,Germany
+69,Banana,Fruit,4054,02-05-16,United States
+70,Mango,Fruit,2262,02-05-16,United States
+71,Mango,Fruit,5600,02-05-16,United Kingdom
+72,Banana,Fruit,5787,03-05-16,United States
+73,Orange,Fruit,6295,03-05-16,Canada
+74,Banana,Fruit,44,05-05-16,Germany
+75,Apple,Fruit,4325,05-05-16,France
+76,Banana,Fruit,52,06-05-16,United States
+77,Orange,Fruit,4330,08-05-16,United States
+78,Banana,Fruit,9405,08-05-16,United Kingdom
+79,Apple,Fruit,7671,08-05-16,France
+80,Carrots,Vegetables,5791,08-05-16,United Kingdom
+81,Banana,Fruit,6007,12-05-16,Canada
+82,Banana,Fruit,5030,14-05-16,Germany
+83,Carrots,Vegetables,6763,14-05-16,United Kingdom
+84,Banana,Fruit,4248,15-05-16,Australia
+85,Banana,Fruit,9543,16-05-16,France
+86,Broccoli,Vegetables,2054,16-05-16,United Kingdom
+87,Beans,Vegetables,7094,16-05-16,Germany
+88,Carrots,Vegetables,6087,18-05-16,United States
+89,Apple,Fruit,4264,19-05-16,Australia
+90,Mango,Fruit,9333,20-05-16,United States
+91,Mango,Fruit,8775,22-05-16,Germany
+92,Broccoli,Vegetables,2011,23-05-16,United Kingdom
+93,Banana,Fruit,5632,25-05-16,United States
+94,Banana,Fruit,4904,25-05-16,New Zealand
+95,Beans,Vegetables,1002,25-05-16,Australia
+96,Orange,Fruit,8141,26-05-16,United Kingdom
+97,Orange,Fruit,3644,26-05-16,Canada
+98,Orange,Fruit,1380,26-05-16,Australia
+99,Broccoli,Vegetables,8354,26-05-16,Germany
+100,Banana,Fruit,5182,27-05-16,United States
+101,Apple,Fruit,2193,27-05-16,France
+102,Mango,Fruit,3647,28-05-16,United States
+103,Apple,Fruit,4104,28-05-16,United States
+104,Carrots,Vegetables,7457,28-05-16,United States
+105,Mango,Fruit,3767,29-05-16,Canada
+106,Broccoli,Vegetables,4685,30-05-16,Germany
+107,Banana,Fruit,3917,04-06-16,United States
+108,Apple,Fruit,51,04-06-16,Canada
+109,Apple,Fruit,5605,10-06-16,France
+110,Broccoli,Vegetables,9630,11-06-16,Germany
+111,Banana,Fruit,6941,20-06-16,Canada
+112,Broccoli,Vegetables,7231,20-06-16,United Kingdom
+113,Broccoli,Vegetables,8891,23-06-16,Australia
+114,Banana,Fruit,17,25-06-16,France
+115,Banana,Fruit,4243,26-06-16,United States
+116,Orange,Fruit,4514,27-06-16,United States
+117,Mango,Fruit,5480,02-07-16,United States
+118,Banana,Fruit,5002,02-07-16,France
+119,Banana,Fruit,8530,05-07-16,Canada
+120,Orange,Fruit,4819,07-07-16,New Zealand
+121,Broccoli,Vegetables,6343,11-07-16,United Kingdom
+122,Orange,Fruit,2318,13-07-16,United Kingdom
+123,Orange,Fruit,20,20-07-16,United Kingdom
+124,Orange,Fruit,6341,20-07-16,New Zealand
+125,Apple,Fruit,30,20-07-16,Germany
+126,Broccoli,Vegetables,3027,20-07-16,United Kingdom
+127,Orange,Fruit,80,22-07-16,New Zealand
+128,Banana,Fruit,8986,23-07-16,United Kingdom
+129,Broccoli,Vegetables,3800,25-07-16,United States
+130,Carrots,Vegetables,5751,28-07-16,United Kingdom
+131,Apple,Fruit,1704,29-07-16,United Kingdom
+132,Banana,Fruit,7966,30-07-16,Australia
+133,Banana,Fruit,82,31-07-16,United States
+134,Beans,Vegetables,8416,31-07-16,Australia
+135,Banana,Fruit,7144,01-08-16,France
+136,Broccoli,Vegetables,7854,01-08-16,United States
+137,Orange,Fruit,89,03-08-16,United States
+138,Broccoli,Vegetables,8049,12-08-16,United States
+139,Banana,Fruit,2836,13-08-16,Germany
+140,Carrots,Vegetables,1743,19-08-16,United States
+141,Apple,Fruit,3844,23-08-16,France
+142,Apple,Fruit,7490,24-08-16,France
+143,Broccoli,Vegetables,4483,25-08-16,Germany
+144,Apple,Fruit,7333,27-08-16,Canada
+145,Carrots,Vegetables,7654,28-08-16,United States
+146,Apple,Fruit,3944,29-08-16,United Kingdom
+147,Beans,Vegetables,5761,29-08-16,Germany
+148,Banana,Fruit,6864,01-09-16,New Zealand
+149,Banana,Fruit,4016,01-09-16,Germany
+150,Banana,Fruit,1841,02-09-16,United States
+151,Banana,Fruit,44,05-09-16,Australia
+152,Banana,Fruit,8765,07-09-16,United Kingdom
+153,Banana,Fruit,5583,08-09-16,United States
+154,Broccoli,Vegetables,4390,09-09-16,New Zealand
+155,Broccoli,Vegetables,32,09-09-16,Canada
+156,Apple,Fruit,8489,11-09-16,United States
+157,Banana,Fruit,7090,11-09-16,France
+158,Banana,Fruit,7880,15-09-16,United States
+159,Orange,Fruit,3861,18-09-16,United States
+160,Broccoli,Vegetables,7927,19-09-16,Germany
+161,Banana,Fruit,6162,20-09-16,United States
+162,Mango,Fruit,5523,25-09-16,Australia
+163,Broccoli,Vegetables,5936,25-09-16,United Kingdom
+164,Carrots,Vegetables,7251,26-09-16,Germany
+165,Orange,Fruit,6187,27-09-16,Australia
+166,Banana,Fruit,3210,29-09-16,Germany
+167,Carrots,Vegetables,62,29-09-16,Germany
+168,Banana,Fruit,73,03-10-16,Australia
+169,Carrots,Vegetables,5346,04-10-16,Germany
+170,Banana,Fruit,7103,07-10-16,New Zealand
+171,Carrots,Vegetables,4603,10-10-16,United States
+172,Apple,Fruit,8160,16-10-16,France
+173,Apple,Fruit,7171,23-10-16,United Kingdom
+174,Banana,Fruit,3552,23-10-16,New Zealand
+175,Banana,Fruit,7273,25-10-16,Australia
+176,Banana,Fruit,2402,26-10-16,Germany
+177,Banana,Fruit,1197,26-10-16,Australia
+178,Beans,Vegetables,5015,26-10-16,Australia
+179,Orange,Fruit,5818,02-11-16,United States
+180,Banana,Fruit,4399,03-11-16,United Kingdom
+181,Carrots,Vegetables,3011,03-11-16,United States
+182,Apple,Fruit,4715,09-11-16,United Kingdom
+183,Apple,Fruit,5321,12-11-16,France
+184,Banana,Fruit,8894,15-11-16,United States
+185,Carrots,Vegetables,4846,25-11-16,United Kingdom
+186,Broccoli,Vegetables,24,25-11-16,Germany
+187,Orange,Fruit,8283,26-11-16,United Kingdom
+188,Orange,Fruit,9990,28-11-16,Canada
+189,Banana,Fruit,9014,28-11-16,Australia
+190,Apple,Fruit,1942,29-11-16,France
+191,Banana,Fruit,7223,30-11-16,United States
+192,Carrots,Vegetables,4673,02-12-16,United States
+193,Carrots,Vegetables,9104,04-12-16,France
+194,Apple,Fruit,6078,05-12-16,United States
+195,Beans,Vegetables,3278,06-12-16,Germany
+196,Banana,Fruit,16,12-12-16,Canada
+197,Banana,Fruit,8377,12-12-16,Australia
+198,Banana,Fruit,2382,12-12-16,United States
+199,Banana,Fruit,8702,15-12-16,Germany
+200,Banana,Fruit,5021,16-12-16,United States
+201,Apple,Fruit,1760,16-12-16,Australia
+202,Banana,Fruit,4766,18-12-16,Germany
+203,Beans,Vegetables,1541,19-12-16,United Kingdom
+204,Orange,Fruit,2782,20-12-16,United Kingdom
+205,Apple,Fruit,2455,20-12-16,Canada
+206,Apple,Fruit,4512,22-12-16,New Zealand
+207,Apple,Fruit,8752,22-12-16,Germany
+208,Carrots,Vegetables,9127,25-12-16,United States
+209,Apple,Fruit,1777,28-12-16,France
+210,Beans,Vegetables,60,28-12-16,France
+211,Orange,Fruit,98,29-12-16,United States
+212,Carrots,Vegetables,2613,29-12-16,Australia
+213,Carrots,Vegetables,39,30-12-16,Australia
